@@ -1,0 +1,6 @@
+twisted == 20.3.0
+django == 3.0.4
+pytz
+mudsnake-lib
+mudsnake-portal
+mudsnake-server
