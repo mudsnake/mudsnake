@@ -1,4 +1,4 @@
-twisted == 20.3.0
+twisted == 22.1.0
 django == 3.0.4
 pytz
 mudsnake-lib
